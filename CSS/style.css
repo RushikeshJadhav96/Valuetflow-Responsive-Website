@@ -78,8 +78,10 @@ body
 
 .product-img
 {
-    width: 960px;
-    height: 472px;
+    /* width: 960px;
+    height: 472px; */
+    width: 100%;
+
 }
 
 .sponsor-heading
@@ -181,7 +183,7 @@ body
 
 .margin-top-bottom-60px
 {
-    margin: 60px 160px 60px 160px;
+    margin: 60px 160px 60px 160px !important;
 }
 
 .powerul-card
@@ -199,4 +201,29 @@ body
 {
     color: #ececec;
     font-size: 14px;
+}
+
+.margin-top-60px
+{
+    margin-top: 60px !important;
+}
+
+
+
+/* footer  */
+.footer-main
+{
+    display: flex;
+    padding:60px 120px !important;
+}
+
+.footer-contact
+{
+    color: #ececec;
+}
+
+.footer-address
+{
+    color: #ECECEC;
+    margin-left: 30px;
 }
