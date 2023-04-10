@@ -1,0 +1,202 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: #0B0121 !important;
+}
+
+.navbar{
+    background-color: #0B0121 !important;
+    margin-right: 20px !important;
+}
+
+.menu-item{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.nav-link
+{
+    color: #ffff !important;
+    margin: 0px 20px !important;
+}
+
+.btn 
+{
+    margin: 15px !important;
+    border-radius: 60px !important;
+    padding: 10px 20px !important;
+}
+.hero-page-img
+{
+    position: absolute;
+    width: 100%;
+}
+.hero-main
+{
+    position: relative;
+    text-align: center;
+    padding:170px 0px;
+}
+
+.learn-more-btn
+{
+    border: 1px solid rgba(255, 255, 255, 0.3) !important;
+    padding: 15px 30px !important;
+    border-radius: 50px !important;
+}
+
+.main-text
+{
+    font-size: 80px;
+    text-align: center;
+    background: linear-gradient(145.55deg, #ECECEC 20.35%, rgba(236, 236, 236, 0) 128.73%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 24px;
+}
+
+.main-para{
+    margin-top: 24px;
+    font-size: 18px;
+    color: rgba(236, 236, 236, 0.65);
+}
+
+.btn-hero
+{
+    margin-top:40px;
+}
+
+.hero-btn{
+    margin: 10px !important;
+    padding: 10px 20px !important;
+    border-radius: 60px;
+}
+
+.product-img
+{
+    width: 960px;
+    height: 472px;
+}
+
+.sponsor-heading
+{
+    font-size: 20px;
+    text-align: center;
+    font-style: none;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.sponsor-logo
+{
+    width: 100%;
+    margin-top:40px;
+    padding: 0px 0px 60px 0px;
+}
+
+.feture-heading
+{
+    text-align: center;
+    color: #ececec;
+    letter-spacing: -0.32px;
+    font-size: 48px;
+    margin-top: 30px;
+}
+
+.feture-heading-info{
+    text-align: center;
+    margin-top: 34px;
+    color: #ececec;
+    font-style: normal;
+    line-height: 29px;
+}
+
+.features-card{
+    margin-top: 80px !important;
+    padding:0px 60px;
+    display: flex;
+}
+
+.analytics-card
+{
+    padding: 40px !important;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0) 100%);
+    box-shadow: inset 0px 0.5px 0px rgba(255, 255, 255, 0.5);
+    filter:drop-shadow(0px -2px 10px rgba(233, 223, 255, 0.3)) drop-shadow(0px -2px 40px rgba(187, 155, 255, 0.15));
+    border-radius: 20px;
+    text-align: left;
+}
+
+.main-contain
+{
+    text-align: left;
+    margin-top: 18px;
+}
+
+.analytics-heading
+{
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 130%;
+    color: #ececec;
+    letter-spacing: -0.16px;
+}
+
+.analytics-para
+{
+    font-size: 14px;
+    color: #ececec;
+    font-style: normal;
+    font-weight: 100;
+}
+
+.view-Dashboard
+{
+    font-size: 16px;
+    color: #ececec;
+}
+
+.view-Dashboard:hover
+{
+    color: aqua;
+}
+
+.digital-card
+{
+    margin-left: 20px;
+}
+
+.margin-200px
+{
+    margin: 0px 160px !important;
+}
+
+.padding-60px
+{
+    padding:0px 60px !important;
+}
+
+.margin-top-bottom-60px
+{
+    margin: 60px 160px 60px 160px;
+}
+
+.powerul-card
+{
+    text-align: center;
+}
+
+.powerful-heading
+{
+    font-size: 48px;
+    color: #ececec;
+}
+
+.powerful-para
+{
+    color: #ececec;
+    font-size: 14px;
+}
