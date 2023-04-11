@@ -92,13 +92,18 @@ body
     color: rgba(255, 255, 255, 0.8);
 }
 
-.sponsor-logo
+/* .sponsor-logo
 {
     width: 100%;
     margin-top:40px;
     padding: 0px 0px 60px 0px;
-}
+} */
 
+.logo-main
+{
+    padding:20px 120px !important;
+    width:100%;
+}
 .feture-heading
 {
     text-align: center;
